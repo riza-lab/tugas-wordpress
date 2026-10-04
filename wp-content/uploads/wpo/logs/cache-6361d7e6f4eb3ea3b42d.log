@@ -1,0 +1,892 @@
+[2026-10-03 13:46:00 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-10-03 13:52:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:52:57 : INFO] - Cache for URL: http://localhost/otomotif/5-cara-merawat-mobil-agar-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-03 13:52:57 : INFO] - Cache for blog post has been purged due to updates to post with Title: "5 Cara Merawat Mobil Agar Tetap Awet" and URL: http://localhost/otomotif/5-cara-merawat-mobil-agar-tetap-awet/, triggered by action: save_post 
+[2026-10-03 13:52:57 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 65 has been purged, triggered by action: save_post 
+[2026-10-03 13:52:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-03 13:52:57 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-03 13:53:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:53:01 : INFO] - Cache for URL: http://localhost/otomotif/5-cara-merawat-mobil-agar-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-03 13:53:01 : INFO] - Cache for blog post has been purged due to updates to post with Title: "5 Cara Merawat Mobil Agar Tetap Awet" and URL: http://localhost/otomotif/5-cara-merawat-mobil-agar-tetap-awet/, triggered by action: save_post 
+[2026-10-03 13:53:01 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 65 has been purged, triggered by action: save_post 
+[2026-10-03 13:53:01 : INFO] - Cache for all archives page associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-03 13:53:01 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-03 13:55:47 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-10-03 13:57:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:57:10 : INFO] - Cache for URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 13:57:10 : INFO] - Cache for blog post has been purged due to updates to post with Title: "bmw terbagus jatuh kepada m5 berkode f10" and URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/, triggered by action: save_post 
+[2026-10-03 13:57:10 : INFO] - Cache for next post (with URL: http://localhost/otomotif/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 13:57:10 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 13:57:10 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 13:57:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:57:14 : INFO] - Cache for URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 13:57:14 : INFO] - Cache for blog post has been purged due to updates to post with Title: "bmw terbagus jatuh kepada m5 berkode f10" and URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/, triggered by action: save_post 
+[2026-10-03 13:57:14 : INFO] - Cache for next post (with URL: http://localhost/otomotif/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 13:57:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 13:57:14 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:31 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-10-03 13:58:47 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-10-03 13:58:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:56 : INFO] - Cache for URL: http://localhost/otomotif/home/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:56 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:56 : INFO] - Cache for URL: http://localhost/otomotif/news/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:56 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "News" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:58 : INFO] - Cache for URL: http://localhost/otomotif/latest-u-s-polls-trump-vs-biden/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:58 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Latest U.S.A Polls: Trump vs. Biden" and URL: http://localhost/otomotif/latest-u-s-polls-trump-vs-biden/, triggered by action: save_post 
+[2026-10-03 13:58:58 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 94 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:58 : INFO] - Cache for all archives page associated with post_type: post and Title: "Latest U.S.A Polls: Trump vs. Biden" have been purged, triggered by action: save_post 
+[2026-10-03 13:58:58 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Latest U.S.A Polls: Trump vs. Biden" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for URL: http://localhost/otomotif/ex-cop-accused-in-california-family-killings/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Ex-Cop Accused in California Family Killings" and URL: http://localhost/otomotif/ex-cop-accused-in-california-family-killings/, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/latest-u-s-polls-trump-vs-biden/) adjacent to post with id: 97 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 97 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Ex-Cop Accused in California Family Killings" have been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Ex-Cop Accused in California Family Killings" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for URL: http://localhost/otomotif/florida-faces-fury-as-massive-hurricane-makes-landfall/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Florida Faces Fury as Massive Hurricane Makes Landfall" and URL: http://localhost/otomotif/florida-faces-fury-as-massive-hurricane-makes-landfall/, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/ex-cop-accused-in-california-family-killings/) adjacent to post with id: 102 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 102 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Florida Faces Fury as Massive Hurricane Makes Landfall" have been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Florida Faces Fury as Massive Hurricane Makes Landfall" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for URL: http://localhost/otomotif/resting-in-the-sands-man-and-camel-under-desert-skies/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Resting in the Sands: Man and Camel under desert skies" and URL: http://localhost/otomotif/resting-in-the-sands-man-and-camel-under-desert-skies/, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/florida-faces-fury-as-massive-hurricane-makes-landfall/) adjacent to post with id: 105 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 105 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Resting in the Sands: Man and Camel under desert skies" have been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Resting in the Sands: Man and Camel under desert skies" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for URL: http://localhost/otomotif/top-artists-come-together-for-one-magical-night/ has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Top Artists Come Together for One Magical Night" and URL: http://localhost/otomotif/top-artists-come-together-for-one-magical-night/, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/resting-in-the-sands-man-and-camel-under-desert-skies/) adjacent to post with id: 108 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 108 has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Top Artists Come Together for One Magical Night" have been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Top Artists Come Together for One Magical Night" has been purged, triggered by action: save_post 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:58:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for URL: http://localhost/otomotif/the-best-theme-parks-now-open-to-the-public/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for blog post has been purged due to updates to post with Title: "The Best Theme Parks Now Open to the Public" and URL: http://localhost/otomotif/the-best-theme-parks-now-open-to-the-public/, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/top-artists-come-together-for-one-magical-night/) adjacent to post with id: 112 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 112 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for all archives page associated with post_type: post and Title: "The Best Theme Parks Now Open to the Public" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "The Best Theme Parks Now Open to the Public" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for URL: http://localhost/otomotif/embracing-natures-beauty-from-the-hammock-haven/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Embracing Nature&#8217;s Beauty from the Hammock Haven" and URL: http://localhost/otomotif/embracing-natures-beauty-from-the-hammock-haven/, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/the-best-theme-parks-now-open-to-the-public/) adjacent to post with id: 122 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 122 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for all archives page associated with post_type: post and Title: "Embracing Nature&#8217;s Beauty from the Hammock Haven" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Embracing Nature&#8217;s Beauty from the Hammock Haven" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/magical-golden-moments-with-the-girls/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Magical Golden Moments with the Girls" and URL: http://localhost/otomotif/magical-golden-moments-with-the-girls/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/embracing-natures-beauty-from-the-hammock-haven/) adjacent to post with id: 125 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 125 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Magical Golden Moments with the Girls" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Magical Golden Moments with the Girls" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/apple-to-circulate-its-loaded-new-features-to-its-watches-this-year/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Apple to circulate it&#8217;s loaded new features to its watches this year" and URL: http://localhost/otomotif/apple-to-circulate-its-loaded-new-features-to-its-watches-this-year/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/magical-golden-moments-with-the-girls/) adjacent to post with id: 128 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 128 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Apple to circulate it&#8217;s loaded new features to its watches this year" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Apple to circulate it&#8217;s loaded new features to its watches this year" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/discover-the-ultimate-3-in-1-vacuum-robot-at-kowon/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Discover the ultimate 3-in-1 vacuum robot at Kowon" and URL: http://localhost/otomotif/discover-the-ultimate-3-in-1-vacuum-robot-at-kowon/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/apple-to-circulate-its-loaded-new-features-to-its-watches-this-year/) adjacent to post with id: 131 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 131 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Discover the ultimate 3-in-1 vacuum robot at Kowon" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Discover the ultimate 3-in-1 vacuum robot at Kowon" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/exploring-the-world-with-dji-phantom-3/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Exploring the World with DJI Phantom 3" and URL: http://localhost/otomotif/exploring-the-world-with-dji-phantom-3/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/discover-the-ultimate-3-in-1-vacuum-robot-at-kowon/) adjacent to post with id: 134 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 134 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Exploring the World with DJI Phantom 3" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Exploring the World with DJI Phantom 3" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/androids-new-update-rolls-out-to-flagship-devices/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Android’s New Update Rolls Out to Flagship Devices" and URL: http://localhost/otomotif/androids-new-update-rolls-out-to-flagship-devices/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/exploring-the-world-with-dji-phantom-3/) adjacent to post with id: 137 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 137 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Android’s New Update Rolls Out to Flagship Devices" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Android’s New Update Rolls Out to Flagship Devices" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/smart-tech-for-work-play-creativity/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Smart Tech for Work, Play &#038; Creativity" and URL: http://localhost/otomotif/smart-tech-for-work-play-creativity/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/androids-new-update-rolls-out-to-flagship-devices/) adjacent to post with id: 140 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 140 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Smart Tech for Work, Play &#038; Creativity" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Smart Tech for Work, Play &#038; Creativity" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/moscow-rugby-team-faces-tough-opponents/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Moscow Rugby Team Faces Tough Opponents" and URL: http://localhost/otomotif/moscow-rugby-team-faces-tough-opponents/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/smart-tech-for-work-play-creativity/) adjacent to post with id: 144 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 144 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Moscow Rugby Team Faces Tough Opponents" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Moscow Rugby Team Faces Tough Opponents" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for URL: http://localhost/otomotif/t20-world-cup-set-to-begin-this-spring/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "T20 World Cup Set to Begin This Spring" and URL: http://localhost/otomotif/t20-world-cup-set-to-begin-this-spring/, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/moscow-rugby-team-faces-tough-opponents/) adjacent to post with id: 148 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 148 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "T20 World Cup Set to Begin This Spring" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "T20 World Cup Set to Begin This Spring" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:06 : INFO] - Cache for URL: http://localhost/otomotif/national-womens-fa-cup-reaction/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for blog post has been purged due to updates to post with Title: "National Women’s FA Cup Reaction" and URL: http://localhost/otomotif/national-womens-fa-cup-reaction/, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/t20-world-cup-set-to-begin-this-spring/) adjacent to post with id: 151 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 151 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for all archives page associated with post_type: post and Title: "National Women’s FA Cup Reaction" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "National Women’s FA Cup Reaction" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:06 : INFO] - Cache for URL: http://localhost/otomotif/skateboard-showdown-pushing-limits-in-the-arena-of-tricks/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Game, Set, Match: A Triumph of Talent and Tenacity" and URL: http://localhost/otomotif/skateboard-showdown-pushing-limits-in-the-arena-of-tricks/, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/national-womens-fa-cup-reaction/) adjacent to post with id: 154 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 154 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for all archives page associated with post_type: post and Title: "Game, Set, Match: A Triumph of Talent and Tenacity" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Game, Set, Match: A Triumph of Talent and Tenacity" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/the-thrilling-world-of-formula-racing-cars/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "The Thrilling World of Formula Racing Cars" and URL: http://localhost/otomotif/the-thrilling-world-of-formula-racing-cars/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/skateboard-showdown-pushing-limits-in-the-arena-of-tricks/) adjacent to post with id: 157 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 157 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "The Thrilling World of Formula Racing Cars" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "The Thrilling World of Formula Racing Cars" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/reputed-politician-found-in-a-fraud-case-of-100-million/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Reputed politician found in a fraud case of $100 million" and URL: http://localhost/otomotif/reputed-politician-found-in-a-fraud-case-of-100-million/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/the-thrilling-world-of-formula-racing-cars/) adjacent to post with id: 169 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 169 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Reputed politician found in a fraud case of $100 million" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Reputed politician found in a fraud case of $100 million" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/political-party-planning-for-a-save-from-corona-wave/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Political party planning for a save from corona wave" and URL: http://localhost/otomotif/political-party-planning-for-a-save-from-corona-wave/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/reputed-politician-found-in-a-fraud-case-of-100-million/) adjacent to post with id: 172 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 172 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Political party planning for a save from corona wave" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Political party planning for a save from corona wave" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/u-s-blocks-import-of-chinese-goods-made-with-forced-labor/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "U.S. blocks import of Chinese goods made with forced labor" and URL: http://localhost/otomotif/u-s-blocks-import-of-chinese-goods-made-with-forced-labor/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/political-party-planning-for-a-save-from-corona-wave/) adjacent to post with id: 175 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 175 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "U.S. blocks import of Chinese goods made with forced labor" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "U.S. blocks import of Chinese goods made with forced labor" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/leaders-face-growing-pressure-over-the-nations-future/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Leaders Face Growing Pressure Over the Nation’s Future" and URL: http://localhost/otomotif/leaders-face-growing-pressure-over-the-nations-future/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/u-s-blocks-import-of-chinese-goods-made-with-forced-labor/) adjacent to post with id: 178 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 178 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Leaders Face Growing Pressure Over the Nation’s Future" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Leaders Face Growing Pressure Over the Nation’s Future" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/dramatic-footage-shows-a-house-collapsing-due-to-a-thunderstorm/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Dramatic footage shows a house collapsing due to a thunderstorm" and URL: http://localhost/otomotif/dramatic-footage-shows-a-house-collapsing-due-to-a-thunderstorm/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/leaders-face-growing-pressure-over-the-nations-future/) adjacent to post with id: 181 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 181 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Dramatic footage shows a house collapsing due to a thunderstorm" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Dramatic footage shows a house collapsing due to a thunderstorm" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/embracing-the-majesty-of-mountains-from-sea/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Embracing the majesty of mountains from sea" and URL: http://localhost/otomotif/embracing-the-majesty-of-mountains-from-sea/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/dramatic-footage-shows-a-house-collapsing-due-to-a-thunderstorm/) adjacent to post with id: 195 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 195 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Embracing the majesty of mountains from sea" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Embracing the majesty of mountains from sea" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for URL: http://localhost/otomotif/drizzling-honey-over-perfect-pancakes/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Drizzling honey over perfect pancakes" and URL: http://localhost/otomotif/drizzling-honey-over-perfect-pancakes/, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/embracing-the-majesty-of-mountains-from-sea/) adjacent to post with id: 207 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 207 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Drizzling honey over perfect pancakes" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Drizzling honey over perfect pancakes" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:10 : INFO] - Cache for URL: http://localhost/otomotif/dive-into-the-immersive-virtual-world-with-vr/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Dive into the Immersive Virtual World with VR" and URL: http://localhost/otomotif/dive-into-the-immersive-virtual-world-with-vr/, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/drizzling-honey-over-perfect-pancakes/) adjacent to post with id: 211 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 211 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for all archives page associated with post_type: post and Title: "Dive into the Immersive Virtual World with VR" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Dive into the Immersive Virtual World with VR" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:10 : INFO] - Cache for URL: http://localhost/otomotif/womans-solitude-on-a-utility-trailer/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Woman&#8217;s solitude on a utility trailer" and URL: http://localhost/otomotif/womans-solitude-on-a-utility-trailer/, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/dive-into-the-immersive-virtual-world-with-vr/) adjacent to post with id: 214 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 214 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for all archives page associated with post_type: post and Title: "Woman&#8217;s solitude on a utility trailer" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:10 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Woman&#8217;s solitude on a utility trailer" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/a-dream-road-trip-through-the-dolomites-with-friends/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "A Dream Road Trip Through the Dolomites with Friends" and URL: http://localhost/otomotif/a-dream-road-trip-through-the-dolomites-with-friends/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/womans-solitude-on-a-utility-trailer/) adjacent to post with id: 232 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 232 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "A Dream Road Trip Through the Dolomites with Friends" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "A Dream Road Trip Through the Dolomites with Friends" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/childhood-bliss-a-cozy-evening-with-netflix/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Childhood Bliss: A Cozy Evening with Netflix" and URL: http://localhost/otomotif/childhood-bliss-a-cozy-evening-with-netflix/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/a-dream-road-trip-through-the-dolomites-with-friends/) adjacent to post with id: 240 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 240 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Childhood Bliss: A Cozy Evening with Netflix" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Childhood Bliss: A Cozy Evening with Netflix" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/grace-in-every-frame-aneesas-fashion-photography/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Grace in Every Frame: Aneesa’s Fashion Photography" and URL: http://localhost/otomotif/grace-in-every-frame-aneesas-fashion-photography/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/childhood-bliss-a-cozy-evening-with-netflix/) adjacent to post with id: 244 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 244 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Grace in Every Frame: Aneesa’s Fashion Photography" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Grace in Every Frame: Aneesa’s Fashion Photography" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/travel-to-taste-your-favorites/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Your Next Trip Starts with Food" and URL: http://localhost/otomotif/travel-to-taste-your-favorites/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/grace-in-every-frame-aneesas-fashion-photography/) adjacent to post with id: 262 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 262 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Your Next Trip Starts with Food" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Your Next Trip Starts with Food" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/shaping-tomorrows-software-with-ai/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Shaping Tomorrow’s Software with AI" and URL: http://localhost/otomotif/shaping-tomorrows-software-with-ai/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/travel-to-taste-your-favorites/) adjacent to post with id: 296 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 296 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Shaping Tomorrow’s Software with AI" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Shaping Tomorrow’s Software with AI" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/a-volcano-is-erupted-again-in-japan/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "A volcano is erupted again in Japan" and URL: http://localhost/otomotif/a-volcano-is-erupted-again-in-japan/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/shaping-tomorrows-software-with-ai/) adjacent to post with id: 311 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 311 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "A volcano is erupted again in Japan" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "A volcano is erupted again in Japan" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for URL: http://localhost/otomotif/amazon-forest-fire-still-out-of-control/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Amazon Forest Fire Still Out of Control" and URL: http://localhost/otomotif/amazon-forest-fire-still-out-of-control/, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/a-volcano-is-erupted-again-in-japan/) adjacent to post with id: 314 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 314 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Amazon Forest Fire Still Out of Control" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Amazon Forest Fire Still Out of Control" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for URL: http://localhost/otomotif/where-to-find-the-best-food-around-kathmandu/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Where to find the best food around Kathmandu" and URL: http://localhost/otomotif/where-to-find-the-best-food-around-kathmandu/, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/grace-in-every-frame-aneesas-fashion-photography/) adjacent to post with id: 338 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for next post (with URL: http://localhost/otomotif/travel-to-taste-your-favorites/) adjacent to post with id: 338 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "Where to find the best food around Kathmandu" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Where to find the best food around Kathmandu" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for URL: http://localhost/otomotif/major-12-million-boost-for-young-people/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Major £12 Million Boost for Young People" and URL: http://localhost/otomotif/major-12-million-boost-for-young-people/, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/where-to-find-the-best-food-around-kathmandu/) adjacent to post with id: 339 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for next post (with URL: http://localhost/otomotif/travel-to-taste-your-favorites/) adjacent to post with id: 339 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "Major £12 Million Boost for Young People" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Major £12 Million Boost for Young People" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for URL: http://localhost/otomotif/rainbow-looks-for-the-weekend/ has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Rainbow Looks for the Weekend" and URL: http://localhost/otomotif/rainbow-looks-for-the-weekend/, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/major-12-million-boost-for-young-people/) adjacent to post with id: 340 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for next post (with URL: http://localhost/otomotif/travel-to-taste-your-favorites/) adjacent to post with id: 340 has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "Rainbow Looks for the Weekend" have been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "Rainbow Looks for the Weekend" has been purged, triggered by action: save_post 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 13:59:15 : INFO] - Cache for homepage has been purged due to change in the Homepage displays options, triggered by action: update_option_page_on_front 
+[2026-10-03 14:00:06 : INFO] - Cache for URL: http://localhost/otomotif/ has been purged, triggered by action: save_post 
+[2026-10-03 14:00:06 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2026-10-03 14:08:09 : INFO] - Cache for homepage has been purged due to change in the Homepage displays options, triggered by action: update_option_page_on_front 
+[2026-10-03 14:08:09 : INFO] - Cache for URL: http://localhost/otomotif/home/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:08:12 : INFO] - Cache for homepage has been purged due to changes in the Posts page options, triggered by action: update_option_page_for_posts 
+[2026-10-03 14:08:12 : INFO] - Cache for URL: http://localhost/otomotif/blog/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:08:28 : INFO] - Cache for URL: http://localhost/otomotif/news/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:10:23 : INFO] - Cache for URL: http://localhost/otomotif/beranda/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:10:38 : INFO] - Cache for URL: http://localhost/otomotif/tentang-kami/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:10:47 : INFO] - Cache for URL: http://localhost/otomotif/berita/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:10:53 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:10:58 : INFO] - Cache for URL: http://localhost/otomotif/kontak/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:11:04 : INFO] - Cache for URL: http://localhost/otomotif/pedoman-media-siber/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:12:49 : INFO] - Cache for URL: http://localhost/otomotif/home/ has been purged, triggered by action: save_post 
+[2026-10-03 14:12:49 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2026-10-03 14:12:52 : INFO] - Cache for URL: http://localhost/otomotif/home/ has been purged, triggered by action: save_post 
+[2026-10-03 14:12:52 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Home" has been purged, triggered by action: save_post 
+[2026-10-03 14:13:26 : INFO] - Cache for URL: http://localhost/otomotif/tentang-rizoto/ has been purged, triggered by action: save_post 
+[2026-10-03 14:13:26 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Tentang RIZOTO" has been purged, triggered by action: save_post 
+[2026-10-03 14:13:29 : INFO] - Cache for URL: http://localhost/otomotif/tentang-rizoto/ has been purged, triggered by action: save_post 
+[2026-10-03 14:13:29 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Tentang RIZOTO" has been purged, triggered by action: save_post 
+[2026-10-03 14:14:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:14:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:14:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:14:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:14:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:15:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:17:31 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: save_post 
+[2026-10-03 14:17:31 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "kebijakan privasi" has been purged, triggered by action: save_post 
+[2026-10-03 14:17:34 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: save_post 
+[2026-10-03 14:17:34 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "kebijakan privasi" has been purged, triggered by action: save_post 
+[2026-10-03 14:18:03 : INFO] - Cache for URL: http://localhost/otomotif/pedoman-media-siber/ has been purged, triggered by action: save_post 
+[2026-10-03 14:18:03 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Pedoman Media Siber" has been purged, triggered by action: save_post 
+[2026-10-03 14:19:03 : INFO] - Cache for URL: http://localhost/otomotif/kontak/ has been purged, triggered by action: save_post 
+[2026-10-03 14:19:03 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Kontak" has been purged, triggered by action: save_post 
+[2026-10-03 14:19:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:19:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:19:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:19:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:19:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:21:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:21:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:21:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:21:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:21:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/02/amazon-forest-fire-still-out-of-control/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/02/a-volcano-is-erupted-again-in-japan/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/02/shaping-tomorrows-software-with-ai/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/travel-to-taste-your-favorites/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/rainbow-looks-for-the-weekend/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/major-12-million-boost-for-young-people/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/where-to-find-the-best-food-around-kathmandu/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/grace-in-every-frame-aneesas-fashion-photography/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/childhood-bliss-a-cozy-evening-with-netflix/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/a-dream-road-trip-through-the-dolomites-with-friends/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/womans-solitude-on-a-utility-trailer/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:09 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/dive-into-the-immersive-virtual-world-with-vr/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:10 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/drizzling-honey-over-perfect-pancakes/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:10 : INFO] - Cache for URL: http://localhost/otomotif/2024/05/01/embracing-the-majesty-of-mountains-from-sea/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:10 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/dramatic-footage-shows-a-house-collapsing-due-to-a-thunderstorm/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:10 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/leaders-face-growing-pressure-over-the-nations-future/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:10 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/u-s-blocks-import-of-chinese-goods-made-with-forced-labor/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:43 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/political-party-planning-for-a-save-from-corona-wave/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:43 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/reputed-politician-found-in-a-fraud-case-of-100-million/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:43 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/the-thrilling-world-of-formula-racing-cars/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:43 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/skateboard-showdown-pushing-limits-in-the-arena-of-tricks/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:43 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/national-womens-fa-cup-reaction/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:43 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/t20-world-cup-set-to-begin-this-spring/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/moscow-rugby-team-faces-tough-opponents/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/smart-tech-for-work-play-creativity/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/androids-new-update-rolls-out-to-flagship-devices/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/exploring-the-world-with-dji-phantom-3/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/discover-the-ultimate-3-in-1-vacuum-robot-at-kowon/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/apple-to-circulate-its-loaded-new-features-to-its-watches-this-year/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/magical-golden-moments-with-the-girls/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/embracing-natures-beauty-from-the-hammock-haven/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/the-best-theme-parks-now-open-to-the-public/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/top-artists-come-together-for-one-magical-night/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:44 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/resting-in-the-sands-man-and-camel-under-desert-skies/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:26:45 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/florida-faces-fury-as-massive-hurricane-makes-landfall/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:26:45 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:27:27 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/ex-cop-accused-in-california-family-killings/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:27:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:27:27 : INFO] - Cache for URL: http://localhost/otomotif/2024/04/29/latest-u-s-polls-trump-vs-biden/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 14:27:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:33:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:33:09 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 14:33:09 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 14:33:09 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 14:33:09 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 14:33:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:33:12 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 14:33:12 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 14:33:12 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 14:33:12 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw terbagus jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 14:33:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:33:37 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 14:33:37 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 14:33:37 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 14:33:37 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 14:33:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:33:40 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 14:33:40 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 14:33:40 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 14:33:40 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 14:49:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:49:42 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/ has been purged, triggered by action: save_post 
+[2026-10-03 14:49:42 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 822 has been purged, triggered by action: save_post 
+[2026-10-03 14:49:42 : INFO] - Cache for all archives page associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." have been purged, triggered by action: save_post 
+[2026-10-03 14:49:42 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." has been purged, triggered by action: save_post 
+[2026-10-03 14:49:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:49:45 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 14:49:45 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/ has been purged, triggered by action: save_post 
+[2026-10-03 14:49:45 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 822 has been purged, triggered by action: save_post 
+[2026-10-03 14:49:45 : INFO] - Cache for all archives page associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." have been purged, triggered by action: save_post 
+[2026-10-03 14:49:45 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." has been purged, triggered by action: save_post 
+[2026-10-03 14:56:45 : INFO] - Cache for URL: http://localhost/otomotif/tentang-rizoto/ has been purged, triggered by action: save_post 
+[2026-10-03 14:56:45 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Tentang RIZOTO" has been purged, triggered by action: save_post 
+[2026-10-03 14:56:47 : INFO] - Cache for URL: http://localhost/otomotif/tentang-rizoto/ has been purged, triggered by action: save_post 
+[2026-10-03 14:56:47 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Tentang RIZOTO" has been purged, triggered by action: save_post 
+[2026-10-03 14:56:47 : INFO] - Cache for URL: http://localhost/otomotif/tentang-rizoto/ has been purged, triggered by action: save_post 
+[2026-10-03 14:56:47 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Tentang RIZOTO" has been purged, triggered by action: save_post 
+[2026-10-03 15:02:08 : INFO] - Cache for URL: http://localhost/otomotif/home/ has been purged, triggered by action: wp_trash_post 
+[2026-10-03 15:05:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:05:38 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/ has been purged, triggered by action: save_post 
+[2026-10-03 15:05:38 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-03 15:05:38 : INFO] - Cache for all archives page associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" have been purged, triggered by action: save_post 
+[2026-10-03 15:05:38 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" has been purged, triggered by action: save_post 
+[2026-10-03 15:05:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:05:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:05:41 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/ has been purged, triggered by action: save_post 
+[2026-10-03 15:05:41 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-03 15:05:41 : INFO] - Cache for all archives page associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" have been purged, triggered by action: save_post 
+[2026-10-03 15:05:41 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" has been purged, triggered by action: save_post 
+[2026-10-03 15:06:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:06:25 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/ has been purged, triggered by action: save_post 
+[2026-10-03 15:06:25 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-03 15:06:25 : INFO] - Cache for all archives page associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" have been purged, triggered by action: save_post 
+[2026-10-03 15:06:25 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" has been purged, triggered by action: save_post 
+[2026-10-03 15:06:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:06:27 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/ has been purged, triggered by action: save_post 
+[2026-10-03 15:06:27 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-03 15:06:27 : INFO] - Cache for all archives page associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" have been purged, triggered by action: save_post 
+[2026-10-03 15:06:27 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" has been purged, triggered by action: save_post 
+[2026-10-03 15:08:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:08:32 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-03 15:08:32 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/) adjacent to post with id: 834 has been purged, triggered by action: save_post 
+[2026-10-03 15:08:32 : INFO] - Cache for all archives page associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" have been purged, triggered by action: save_post 
+[2026-10-03 15:08:32 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" has been purged, triggered by action: save_post 
+[2026-10-03 15:08:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:08:35 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:08:35 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-03 15:08:35 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/) adjacent to post with id: 834 has been purged, triggered by action: save_post 
+[2026-10-03 15:08:35 : INFO] - Cache for all archives page associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" have been purged, triggered by action: save_post 
+[2026-10-03 15:08:35 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" has been purged, triggered by action: save_post 
+[2026-10-03 15:09:16 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:09:16 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 15:09:16 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 15:09:16 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 15:09:16 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 15:09:16 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:09:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:09:19 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-03 15:09:19 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-03 15:09:19 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-03 15:09:19 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-03 15:13:45 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:13:45 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/ has been purged, triggered by action: save_post 
+[2026-10-03 15:13:45 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-03 15:13:45 : INFO] - Cache for all archives page associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" have been purged, triggered by action: save_post 
+[2026-10-03 15:13:45 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" has been purged, triggered by action: save_post 
+[2026-10-03 15:13:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:13:48 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/ has been purged, triggered by action: save_post 
+[2026-10-03 15:13:48 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-03 15:13:48 : INFO] - Cache for all archives page associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" have been purged, triggered by action: save_post 
+[2026-10-03 15:13:48 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" has been purged, triggered by action: save_post 
+[2026-10-03 15:14:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:14:04 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/ has been purged, triggered by action: save_post 
+[2026-10-03 15:14:04 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-03 15:14:04 : INFO] - Cache for all archives page associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" have been purged, triggered by action: save_post 
+[2026-10-03 15:14:04 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" has been purged, triggered by action: save_post 
+[2026-10-03 15:14:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:14:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:14:07 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/ has been purged, triggered by action: save_post 
+[2026-10-03 15:14:07 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-03 15:14:07 : INFO] - Cache for all archives page associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" have been purged, triggered by action: save_post 
+[2026-10-03 15:14:07 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" has been purged, triggered by action: save_post 
+[2026-10-03 15:29:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:29:55 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/ has been purged, triggered by action: save_post 
+[2026-10-03 15:29:55 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/) adjacent to post with id: 845 has been purged, triggered by action: save_post 
+[2026-10-03 15:29:55 : INFO] - Cache for all archives page associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" have been purged, triggered by action: save_post 
+[2026-10-03 15:29:55 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" has been purged, triggered by action: save_post 
+[2026-10-03 15:29:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:29:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:29:58 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/ has been purged, triggered by action: save_post 
+[2026-10-03 15:29:58 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/) adjacent to post with id: 845 has been purged, triggered by action: save_post 
+[2026-10-03 15:29:58 : INFO] - Cache for all archives page associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" have been purged, triggered by action: save_post 
+[2026-10-03 15:29:58 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" has been purged, triggered by action: save_post 
+[2026-10-03 15:32:24 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:32:24 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-03 15:32:24 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/) adjacent to post with id: 848 has been purged, triggered by action: save_post 
+[2026-10-03 15:32:24 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" have been purged, triggered by action: save_post 
+[2026-10-03 15:32:24 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" has been purged, triggered by action: save_post 
+[2026-10-03 15:32:24 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:32:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-03 15:32:27 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-03 15:32:27 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/) adjacent to post with id: 848 has been purged, triggered by action: save_post 
+[2026-10-03 15:32:27 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" have been purged, triggered by action: save_post 
+[2026-10-03 15:32:27 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" has been purged, triggered by action: save_post 
+[2026-10-04 05:39:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 05:39:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 05:39:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 05:39:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 05:43:12 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-10-04 05:43:14 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-10-04 05:56:41 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: save_post 
+[2026-10-04 05:56:41 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "kebijakan privasi" has been purged, triggered by action: save_post 
+[2026-10-04 05:56:43 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: save_post 
+[2026-10-04 05:56:43 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "kebijakan privasi" has been purged, triggered by action: save_post 
+[2026-10-04 05:58:24 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: save_post 
+[2026-10-04 05:58:24 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "kebijakan privasi" has been purged, triggered by action: save_post 
+[2026-10-04 05:58:26 : INFO] - Cache for URL: http://localhost/otomotif/kebijakan-privasi/ has been purged, triggered by action: save_post 
+[2026-10-04 05:58:26 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "kebijakan privasi" has been purged, triggered by action: save_post 
+[2026-10-04 06:02:06 : INFO] - Cache for URL: http://localhost/otomotif/kontak/ has been purged, triggered by action: save_post 
+[2026-10-04 06:02:06 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Kontak" has been purged, triggered by action: save_post 
+[2026-10-04 06:02:07 : INFO] - Cache for URL: http://localhost/otomotif/kontak/ has been purged, triggered by action: save_post 
+[2026-10-04 06:02:07 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Kontak" has been purged, triggered by action: save_post 
+[2026-10-04 06:06:30 : INFO] - Cache for URL: http://localhost/otomotif/pedoman-media-siber/ has been purged, triggered by action: save_post 
+[2026-10-04 06:06:30 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Pedoman Media Siber" has been purged, triggered by action: save_post 
+[2026-10-04 06:06:32 : INFO] - Cache for URL: http://localhost/otomotif/pedoman-media-siber/ has been purged, triggered by action: save_post 
+[2026-10-04 06:06:32 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: page and Title: "Pedoman Media Siber" has been purged, triggered by action: save_post 
+[2026-10-04 06:10:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:10:25 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-04 06:10:25 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/) adjacent to post with id: 848 has been purged, triggered by action: save_post 
+[2026-10-04 06:10:25 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" have been purged, triggered by action: save_post 
+[2026-10-04 06:10:25 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" has been purged, triggered by action: save_post 
+[2026-10-04 06:10:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:10:28 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-04 06:10:28 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/) adjacent to post with id: 848 has been purged, triggered by action: save_post 
+[2026-10-04 06:10:28 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" have been purged, triggered by action: save_post 
+[2026-10-04 06:10:28 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Sudah Pakai Motor Listrik, Masih Perlu Servis Rutin ke Bengkel?" has been purged, triggered by action: save_post 
+[2026-10-04 06:11:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:11:20 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-04 06:11:20 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-04 06:11:20 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-04 06:11:20 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-04 06:11:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:11:23 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/ has been purged, triggered by action: save_post 
+[2026-10-04 06:11:23 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 61 has been purged, triggered by action: save_post 
+[2026-10-04 06:11:23 : INFO] - Cache for all archives page associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" have been purged, triggered by action: save_post 
+[2026-10-04 06:11:23 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "bmw Terbaik jatuh kepada m5 berkode f10" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:11 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:11 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/) adjacent to post with id: 845 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:11 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/) adjacent to post with id: 845 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:11 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:14 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:14 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/) adjacent to post with id: 845 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:14 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/) adjacent to post with id: 845 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:14 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Toyota Kijang Rover 1991 Disulap Bergaya GH Style, Siap Jadi Supergiveaway IMX 2026" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:35 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:35 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:35 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:35 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:35 : INFO] - Cache for all archives page associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:35 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:37 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:37 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/) adjacent to post with id: 834 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:37 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/) adjacent to post with id: 834 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:37 : INFO] - Cache for all archives page associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:37 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:38 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:38 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:38 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/toyota-kijang-rover-1991-disulap-bergaya-gh-style-siap-jadi-supergiveaway-imx-2026/) adjacent to post with id: 840 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:38 : INFO] - Cache for all archives page associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:38 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Motor Cafe Racer Triump Thruxton 400 Sudah Resmi Dijual: Cuma Segini" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:39 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:39 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:39 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/) adjacent to post with id: 834 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:39 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/motor-cafe-racer-triump-thruxton-400-sudah-resmi-dijual-cuma-segini/) adjacent to post with id: 834 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:39 : INFO] - Cache for all archives page associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:39 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Panduan Perawatan Mobil Listrik RWD Menurut Ahli Bengkel" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:54 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:54 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:54 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:54 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:54 : INFO] - Cache for all archives page associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:54 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" has been purged, triggered by action: save_post 
+[2026-10-04 06:12:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:12:56 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/ has been purged, triggered by action: save_post 
+[2026-10-04 06:12:56 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:56 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/panduan-perawatan-mobil-listrik-rwd-menurut-ahli-bengkel/) adjacent to post with id: 831 has been purged, triggered by action: save_post 
+[2026-10-04 06:12:56 : INFO] - Cache for all archives page associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" have been purged, triggered by action: save_post 
+[2026-10-04 06:12:56 : INFO] - Cache for author page URL: http://localhost/otomotif/author/penulis-oto/ associated with post_type: post and Title: "Masih Utang, Sudah Segini Mobil BYD yang Diproduksi di Indonesia" has been purged, triggered by action: save_post 
+[2026-10-04 06:13:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:13:18 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/ has been purged, triggered by action: save_post 
+[2026-10-04 06:13:18 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 822 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:18 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/) adjacent to post with id: 822 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:18 : INFO] - Cache for all archives page associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." have been purged, triggered by action: save_post 
+[2026-10-04 06:13:18 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." has been purged, triggered by action: save_post 
+[2026-10-04 06:13:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:13:22 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/ has been purged, triggered by action: save_post 
+[2026-10-04 06:13:22 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/) adjacent to post with id: 822 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:22 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/masih-utang-sudah-segini-mobil-byd-yang-diproduksi-di-indonesia/) adjacent to post with id: 822 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:22 : INFO] - Cache for all archives page associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." have been purged, triggered by action: save_post 
+[2026-10-04 06:13:22 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "ONE MILLION BMW M VEHICLES." has been purged, triggered by action: save_post 
+[2026-10-04 06:13:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:13:37 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:13:37 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 65 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:37 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 65 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:37 : INFO] - Cache for all archives page associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:13:37 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:13:45 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:13:45 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/03/5-cara-merawat-mobil-agar-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:13:45 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/bmw-terbagus-jatuh-kepada-m5-berkode-f10/) adjacent to post with id: 65 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:45 : INFO] - Cache for next post (with URL: http://localhost/otomotif/2026/10/03/one-million-bmw-m-vehicles/) adjacent to post with id: 65 has been purged, triggered by action: save_post 
+[2026-10-04 06:13:45 : INFO] - Cache for all archives page associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:13:45 : INFO] - Cache for author page URL: http://localhost/otomotif/author/riza23/ associated with post_type: post and Title: "5 Cara Merawat Mobil Agar Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:16:45 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:16:45 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/ has been purged, triggered by action: save_post 
+[2026-10-04 06:16:45 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/) adjacent to post with id: 872 has been purged, triggered by action: save_post 
+[2026-10-04 06:16:45 : INFO] - Cache for all archives page associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" have been purged, triggered by action: save_post 
+[2026-10-04 06:16:45 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" has been purged, triggered by action: save_post 
+[2026-10-04 06:16:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:16:48 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/ has been purged, triggered by action: save_post 
+[2026-10-04 06:16:48 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/) adjacent to post with id: 872 has been purged, triggered by action: save_post 
+[2026-10-04 06:16:48 : INFO] - Cache for all archives page associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" have been purged, triggered by action: save_post 
+[2026-10-04 06:16:48 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" has been purged, triggered by action: save_post 
+[2026-10-04 06:16:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:16:57 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/ has been purged, triggered by action: save_post 
+[2026-10-04 06:16:57 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/) adjacent to post with id: 872 has been purged, triggered by action: save_post 
+[2026-10-04 06:16:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" have been purged, triggered by action: save_post 
+[2026-10-04 06:16:57 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" has been purged, triggered by action: save_post 
+[2026-10-04 06:16:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:16:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:16:59 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/ has been purged, triggered by action: save_post 
+[2026-10-04 06:16:59 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/03/sudah-pakai-motor-listrik-masih-perlu-servis-rutin-ke-bengkel/) adjacent to post with id: 872 has been purged, triggered by action: save_post 
+[2026-10-04 06:16:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" have been purged, triggered by action: save_post 
+[2026-10-04 06:16:59 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Tren Modifikasi Motor Maxi Yamaha, dari Racing hingga Hedon Style" has been purged, triggered by action: save_post 
+[2026-10-04 06:19:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:19:49 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:19:49 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/) adjacent to post with id: 876 has been purged, triggered by action: save_post 
+[2026-10-04 06:19:49 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:19:49 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:19:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:19:52 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:19:52 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/) adjacent to post with id: 876 has been purged, triggered by action: save_post 
+[2026-10-04 06:19:52 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:19:52 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:20:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:20:01 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:20:01 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/) adjacent to post with id: 876 has been purged, triggered by action: save_post 
+[2026-10-04 06:20:01 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:20:01 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:20:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:20:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:20:03 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:20:03 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/) adjacent to post with id: 876 has been purged, triggered by action: save_post 
+[2026-10-04 06:20:03 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:20:03 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:21:16 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:21:16 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:21:16 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/) adjacent to post with id: 876 has been purged, triggered by action: save_post 
+[2026-10-04 06:21:16 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:21:16 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:21:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:21:18 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/ has been purged, triggered by action: save_post 
+[2026-10-04 06:21:18 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/tren-modifikasi-motor-maxi-yamaha-dari-racing-hingga-hedon-style/) adjacent to post with id: 876 has been purged, triggered by action: save_post 
+[2026-10-04 06:21:18 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" have been purged, triggered by action: save_post 
+[2026-10-04 06:21:18 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Hindari Kebiasaan Ini Supaya Mesin Motor Bore Up Bisa Tetap Awet" has been purged, triggered by action: save_post 
+[2026-10-04 06:23:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:23:55 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/modif-kalcer-chery-q-stand-out-ala-retro-modern/ has been purged, triggered by action: save_post 
+[2026-10-04 06:23:55 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/) adjacent to post with id: 880 has been purged, triggered by action: save_post 
+[2026-10-04 06:23:55 : INFO] - Cache for all archives page associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" have been purged, triggered by action: save_post 
+[2026-10-04 06:23:55 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" has been purged, triggered by action: save_post 
+[2026-10-04 06:23:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:23:58 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/modif-kalcer-chery-q-stand-out-ala-retro-modern/ has been purged, triggered by action: save_post 
+[2026-10-04 06:23:58 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/) adjacent to post with id: 880 has been purged, triggered by action: save_post 
+[2026-10-04 06:23:58 : INFO] - Cache for all archives page associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" have been purged, triggered by action: save_post 
+[2026-10-04 06:23:58 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" has been purged, triggered by action: save_post 
+[2026-10-04 06:24:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:24:02 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/modif-kalcer-chery-q-stand-out-ala-retro-modern/ has been purged, triggered by action: save_post 
+[2026-10-04 06:24:02 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/) adjacent to post with id: 880 has been purged, triggered by action: save_post 
+[2026-10-04 06:24:02 : INFO] - Cache for all archives page associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" have been purged, triggered by action: save_post 
+[2026-10-04 06:24:02 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" has been purged, triggered by action: save_post 
+[2026-10-04 06:24:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:24:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:24:04 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/modif-kalcer-chery-q-stand-out-ala-retro-modern/ has been purged, triggered by action: save_post 
+[2026-10-04 06:24:04 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/hindari-kebiasaan-ini-supaya-mesin-motor-bore-up-bisa-tetap-awet/) adjacent to post with id: 880 has been purged, triggered by action: save_post 
+[2026-10-04 06:24:04 : INFO] - Cache for all archives page associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" have been purged, triggered by action: save_post 
+[2026-10-04 06:24:04 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Modif Kalcer Chery Q, Stand Out Ala Retro Modern!" has been purged, triggered by action: save_post 
+[2026-10-04 06:26:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:26:01 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/inovasi-konversi-mobil-tua-listrik-hemat-legal/ has been purged, triggered by action: save_post 
+[2026-10-04 06:26:01 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/modif-kalcer-chery-q-stand-out-ala-retro-modern/) adjacent to post with id: 885 has been purged, triggered by action: save_post 
+[2026-10-04 06:26:01 : INFO] - Cache for all archives page associated with post_type: post and Title: "Inovasi Konversi Mobil Tua: Listrik, Hemat, Legal?" have been purged, triggered by action: save_post 
+[2026-10-04 06:26:01 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Inovasi Konversi Mobil Tua: Listrik, Hemat, Legal?" has been purged, triggered by action: save_post 
+[2026-10-04 06:26:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:26:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:26:04 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/inovasi-konversi-mobil-tua-listrik-hemat-legal/ has been purged, triggered by action: save_post 
+[2026-10-04 06:26:04 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/modif-kalcer-chery-q-stand-out-ala-retro-modern/) adjacent to post with id: 885 has been purged, triggered by action: save_post 
+[2026-10-04 06:26:04 : INFO] - Cache for all archives page associated with post_type: post and Title: "Inovasi Konversi Mobil Tua: Listrik, Hemat, Legal?" have been purged, triggered by action: save_post 
+[2026-10-04 06:26:04 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Inovasi Konversi Mobil Tua: Listrik, Hemat, Legal?" has been purged, triggered by action: save_post 
+[2026-10-04 06:30:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:30:30 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/mau-ganti-plat-motor-honda-ini-rincian-biaya-dan-tahapan-stnk-5-tahunan/ has been purged, triggered by action: save_post 
+[2026-10-04 06:30:30 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/inovasi-konversi-mobil-tua-listrik-hemat-legal/) adjacent to post with id: 889 has been purged, triggered by action: save_post 
+[2026-10-04 06:30:30 : INFO] - Cache for all archives page associated with post_type: post and Title: "Mau Ganti Plat Motor Honda? Ini Rincian Biaya dan Tahapan STNK 5 Tahunan" have been purged, triggered by action: save_post 
+[2026-10-04 06:30:30 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Mau Ganti Plat Motor Honda? Ini Rincian Biaya dan Tahapan STNK 5 Tahunan" has been purged, triggered by action: save_post 
+[2026-10-04 06:30:30 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:30:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-10-04 06:30:32 : INFO] - Cache for URL: http://localhost/otomotif/2026/10/04/mau-ganti-plat-motor-honda-ini-rincian-biaya-dan-tahapan-stnk-5-tahunan/ has been purged, triggered by action: save_post 
+[2026-10-04 06:30:32 : INFO] - Cache for previous post (with URL: http://localhost/otomotif/2026/10/04/inovasi-konversi-mobil-tua-listrik-hemat-legal/) adjacent to post with id: 889 has been purged, triggered by action: save_post 
+[2026-10-04 06:30:32 : INFO] - Cache for all archives page associated with post_type: post and Title: "Mau Ganti Plat Motor Honda? Ini Rincian Biaya dan Tahapan STNK 5 Tahunan" have been purged, triggered by action: save_post 
+[2026-10-04 06:30:32 : INFO] - Cache for author page URL: http://localhost/otomotif/author/editor-oto/ associated with post_type: post and Title: "Mau Ganti Plat Motor Honda? Ini Rincian Biaya dan Tahapan STNK 5 Tahunan" has been purged, triggered by action: save_post 

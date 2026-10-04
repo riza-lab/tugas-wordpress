@@ -1,0 +1,40 @@
+/*
+Theme Name: ColorMag Child
+Template: colormag
+Version: 1.0
+*/
+
+:root {
+  --utama: #c62828;
+  --gelap: #1a1a1a;
+}
+
+/* Garis merah di bawah header */
+header {
+  border-bottom: 4px solid var(--utama);
+}
+
+/* Judul berita */
+.entry-title a {
+  font-weight: 700;
+  line-height: 1.3;
+}
+.entry-title a:hover {
+  color: var(--utama);
+}
+
+/* Efek kartu saat kursor di atas berita */
+article {
+  transition: transform .2s, box-shadow .2s;
+}
+article:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, .12);
+}
+
+/* Gambar seragam 16:9 */
+article img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
